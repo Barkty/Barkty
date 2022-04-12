@@ -11,7 +11,7 @@
 
 👨🏽‍💻 I enjoy contributing to **Open Source Projects** and I'm really enthusiatic about learning new technology. In 2021, I learnt **React**, **C#** and **Nextjs**. Recently, I got started on **SASS** and **Progressive Web App (PWA)**.
 
-👯 I’m looking to collaborate on ...
+👯 I’m looking to collaborate on **React** projects.
 
 🎻 Outside the world of tech too, I love pushing myself to develop new skills ranging from the **violin** to some whacky ones like **writing with my left hand** (only aiming from playing the **violin** though).
 
