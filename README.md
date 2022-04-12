@@ -1,5 +1,5 @@
-<!--![Banner](https://www.canva.com/design/DAE9rd14Dyc/8C50FZnYLWpvhvqJaZ7HUw/view?utm_content=DAE9rd14Dyc&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
--->
+<img src="https://github.com/Barkty/aptitudeTest-back/blob/main/1.png" width='100%' alt='Banner'/>
+
 ### Hi there 👋
 
 ---
