@@ -21,7 +21,7 @@
 
 📫 How to reach me: ![https://github.com/Barkty](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) ![linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)
     
-😄 Pronouns: She/her
+😄 Pronouns: She/her/hers
 <!--
 **Barkty/Barkty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
