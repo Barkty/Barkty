@@ -9,7 +9,7 @@
 
 🙋 I am Gbemisola Kotoye ✨, a **Software Developer** specializing in **Front End Development**.
 
-👨🏽‍💻 I enjoy contributing to **Open Source Projects** and I'm really enthusiatic about learning new technology. In 2021, I learnt **React**, **C#** and **Nextjs**. Recently, I got started on **SASS** and **Progressive Web App (PWA)**.
+👨🏽‍💻 I enjoy contributing to **Open Source Projects** and I'm really enthusiatic about learning new technology. I specialize in **ReactJs**, **TypeScript/JavaScript** and **Nextjs**. Recently, I got started on **NestJs** and **Progressive Web App (PWA)**.
 
 👯 I’m looking to collaborate on **React** projects.
 
