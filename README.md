@@ -7,11 +7,11 @@
 
 ---
 
-🙋 I am Gbemisola Kotoye ✨, a **Software Developer** specializing in **Front End Development**.
+🙋 I am Gbemisola Kotoye ✨, a **Software Developer** specializing in **Back End Development**.
 
-👨🏽‍💻 I enjoy contributing to **Open Source Projects** and I'm really enthusiatic about learning new technology. I specialize in **ReactJs**, **TypeScript/JavaScript** and **Nextjs**. Recently, I got started on **NestJs** and **Progressive Web App (PWA)**.
+👨🏽‍💻 I enjoy contributing to **Open Source Projects** and I'm really enthusiastic about learning new technology. I specialize in **ReactJs**, **TypeScript/JavaScript** and **Nextjs**. Recently, I got started on **NestJs** and **Progressive Web App (PWA)**.
 
-👯 I’m looking to collaborate on **React** projects.
+👯 I’m looking to collaborate on **Nodejs**, **Nestjs** and **.Net** projects.
 
 🎻 Outside the world of tech too, I love pushing myself to develop new skills ranging from the **violin** to some whacky ones like **writing with my left hand** (only aiming from playing the **violin** though).
 
@@ -19,7 +19,7 @@
 
 ✈️ I love **traveling** as well, though it's been a while I last travelled.
 
-📫 How to reach me: ![https://github.com/Barkty](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) ![linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)
+📫 How to reach me: ![https://github.com/Barkty](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) ![https://www.linkedin.com/in/kotoye-gbemisola](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)
     
 😄 Pronouns: She/her/hers
 <!--
